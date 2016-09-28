@@ -1,6 +1,6 @@
 {
   "name": "claudia",
-  "version": "1.8.0",
+  "version": "2.0.1",
   "description": "deploy Node.js microservices to AWS easily",
   "license": "MIT",
   "repository": {
@@ -53,9 +53,9 @@
   },
   "devDependencies": {
     "dotenv": "^2.0.0",
-    "jasmine": "~2.4.1",
-    "jasmine-spec-reporter": "~2.5.0",
     "jscs": "^2.9.0",
+    "jasmine": "^2.5.2",
+    "jasmine-spec-reporter": "^2.7.0",
     "jshint": "^2.9.1"
   }
 }
